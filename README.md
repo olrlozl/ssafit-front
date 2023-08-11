@@ -12,7 +12,7 @@
 - 리뷰 목록 ```reviewList.html```
 - 리뷰 상세 ```reviewDetail.html```
 - 리뷰 수정 ```reviewEdit.html```
-- 리뷰 등록 ```reviewRegister```
+- 리뷰 등록 ```addReview.html```
 
 
 **추가**
