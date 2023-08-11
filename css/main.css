@@ -13,6 +13,11 @@
     left: 0;
     right: 0;
     margin: auto;
-    margin-top: 40px;
+    margin-top: 200px;
     width: 1400px;
+}
+
+#page-name {
+    font-weight: bold;
+    font-size: 2rem;
 }
