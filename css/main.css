@@ -5,6 +5,7 @@
     list-style: none;
 }
 
+
 .container {
     display: flex;
     justify-content: center;
@@ -17,7 +18,12 @@
     width: 1400px;
 }
 
+.container-fluid {
+    padding: 0 20px 0 20px !important;
+}
+
 #page-name {
     font-weight: bold;
     font-size: 2rem;
 }
+
